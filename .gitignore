@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+.openai/
+.sites-runtime/
+
+# Export artifacts and local transfer helper
+*.zip
+.library-helper/
