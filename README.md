@@ -2,7 +2,7 @@
 
 Catálogo estático de demostración con seis productos, filtros, búsqueda, selección de cantidades y temperaturas, cálculo ilustrativo por volumen y una escena animada al desplazarse. HTML, CSS y JavaScript sin dependencias de instalación.
 
-Destino temporal previsto: `bjup.sin-yolanda.com`. El repositorio previsto sigue siendo `despertar-tec-digital-ia/bjup`. Este paquete no configura dominio ni publica el sitio.
+Destino temporal previsto: `bjup.sin-yolanda.com`. El repositorio público es `despertar-tec-digital-ia/bjup`. Este paquete no configura dominio ni publica el sitio.
 
 ## Uso local
 
@@ -29,7 +29,7 @@ Los precios, la moneda, los impuestos, el umbral de volumen, las existencias y l
 
 No se incluyen credenciales, historial Git, identidad de Sites, servicios de formularios ni herramientas de desarrollo de terceros. No hay integración de despliegue automático configurada en estos archivos.
 
-**Privacidad del despliegue:** un repositorio privado no hace privado el sitio desplegado. La etiqueta «PROPUESTA PRIVADA» es contenido visual y no un control de acceso. Antes de publicar una revisión privada en Pages, confirmar si se necesita acceso restringido.
+**Privacidad del despliegue:** el repositorio de GitHub es público. La etiqueta «PROPUESTA TEMPORAL» describe la demo y no es un control de acceso. La publicación en Cloudflare Pages está pendiente; cualquier restricción de acceso debe configurarse por separado.
 
 ## Tipografía externa
 

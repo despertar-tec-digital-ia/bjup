@@ -2,7 +2,7 @@
 
 ## Destinos
 
-- Repositorio previsto: `despertar-tec-digital-ia/bjup`, privado por defecto.
+- Repositorio público: `despertar-tec-digital-ia/bjup`.
 - Proyecto: uno nuevo y separado para BJUP; no reutilizar el de otro negocio.
 - Dominio temporal solicitado: `bjup.sin-yolanda.com`.
 
@@ -42,7 +42,7 @@ Asociar el dominio en Pages antes de configurar un CNAME. Su destino debe ser el
 
 Verificar imágenes, escena de scroll, modo de movimiento reducido, filtros, búsqueda, selección, precios a partir de diez piezas, cierre y reapertura de diálogos, y generación/copia del resumen de prueba. Comprobar consola y red. La demo debe seguir sin transmitir datos del formulario.
 
-Un repositorio privado no protege el sitio publicado. Confirmar por separado cualquier necesidad de restricción de acceso.
+El repositorio de GitHub es público. La publicación en Cloudflare Pages está pendiente; confirmar por separado cualquier necesidad de restricción de acceso.
 
 ## Referencias oficiales
 
